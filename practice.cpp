@@ -119,3 +119,57 @@ cout<<endl;
 
     return 0;
 }
+
+
+***************output**************
+
+[Running] cd "c:\Users\bhavy\OneDrive\Desktop\cpp\" && g++ practice.cpp -o practice && "c:\Users\bhavy\OneDrive\Desktop\cpp\"practice
+ hey bhavi how are you:
+ here is the value of a is:3
+ here is the value of b is:3.3
+ here is the value of babes is:1
+ here is the value of bhavli is:s
+ here is the value of c is:33.3
+
+ the value x < y = 1
+ the value y > y = 0
+ the value z <= y = 1
+ the value y >= z = 0
+ the value z != y = 1
+ the value x == y = 0
+
+ the value d*e 7623
+ the value d+f 187
+ the value d-f 11
+ the value f/e 1
+ the value ++e 78
+ the value f-- 88
+ the value ++d 100
+ the value e-- 78
+ the value f%e 10
+
+ values 44
+ values S
+
+ the values is: 0
+ the values is: 0
+ the values is: 1
+
+ the value of global digit is: 2005
+
+ h is change in flaot 1
+ h is change in flaot 1
+ i is change in int 2
+ i is change in int 2
+
+ the size of h is: 4
+ the size of i is: 4
+ the size of j is: 16
+
+ the value of X is what? 50
+ the value of Y is what? 50
+
+
+[Done] exited with code=0 in 0.507 seconds
+
+
