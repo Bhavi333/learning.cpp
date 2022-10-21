@@ -121,9 +121,9 @@ cout<<endl;
 }
 
 
-***************output**************
 
-[Running] cd "c:\Users\bhavy\OneDrive\Desktop\cpp\" && g++ practice.cpp -o practice && "c:\Users\bhavy\OneDrive\Desktop\cpp\"practice
+
+/* [Running] cd "c:\Users\bhavy\OneDrive\Desktop\cpp\" && g++ practice.cpp -o practice && "c:\Users\bhavy\OneDrive\Desktop\cpp\"practice
  hey bhavi how are you:
  here is the value of a is:3
  here is the value of b is:3.3
@@ -170,6 +170,6 @@ cout<<endl;
  the value of Y is what? 50
 
 
-[Done] exited with code=0 in 0.507 seconds
+[Done] exited with code=0 in 0.507 seconds*/
 
 
