@@ -32,7 +32,7 @@ cout<<"The value of x is: "<<x<<endl;
     return 0;
 }
 
-
+****************************************************OUTPUT*****************************************************************
 
 /*[Running] cd "c:\Users\bhavy\OneDrive\Desktop\cpp\" && g++ tut8.cpp -o tut8 && "c:\Users\bhavy\OneDrive\Desktop\cpp\"tut8
 Hey bhavi 
