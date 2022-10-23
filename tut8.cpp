@@ -31,20 +31,3 @@ cout<<"The value of x is: "<<x<<endl;
 
     return 0;
 }
-
-****************************************************OUTPUT*****************************************************************
-
-/*[Running] cd "c:\Users\bhavy\OneDrive\Desktop\cpp\" && g++ tut8.cpp -o tut8 && "c:\Users\bhavy\OneDrive\Desktop\cpp\"tut8
-Hey bhavi 
-
-the value of a is:    3
-the value of b is:   333
-the value of c is:  33333
-the value of d is: 3333333
-
-The value of D is: 134162
-
-The value of x is: 25
-The value of x is: 52
-
-[Done] exited with code=0 in 0.521 seconds*/
