@@ -34,7 +34,7 @@ cout<<"The value of x is: "<<x<<endl;
 
 
 
-[Running] cd "c:\Users\bhavy\OneDrive\Desktop\cpp\" && g++ tut8.cpp -o tut8 && "c:\Users\bhavy\OneDrive\Desktop\cpp\"tut8
+/*[Running] cd "c:\Users\bhavy\OneDrive\Desktop\cpp\" && g++ tut8.cpp -o tut8 && "c:\Users\bhavy\OneDrive\Desktop\cpp\"tut8
 Hey bhavi 
 
 the value of a is:    3
@@ -47,4 +47,4 @@ The value of D is: 134162
 The value of x is: 25
 The value of x is: 52
 
-[Done] exited with code=0 in 0.521 seconds
+[Done] exited with code=0 in 0.521 seconds*/
